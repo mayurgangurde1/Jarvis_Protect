@@ -79,15 +79,5 @@
         <version>3.141.59</version>
     </dependency>
 
- <dependency>
- 	<groupId>sample</groupId>
- 	<artifactId>sample1</artifactId>
- 	<version>0.0.1-SNAPSHOT</version>
- </dependency>
- <dependency>
- 	<groupId>JARVIS</groupId>
- 	<artifactId>JARVIS</artifactId>
- 	<version>0.0.1-SNAPSHOT</version>
- </dependency>
  </dependencies>
 </project>
